@@ -6,7 +6,7 @@
 
 # DIY-VAN-CONTROL
 
-This Project is moved to https://git.pekaway.de
+This Project is moved to https://git.pekaway.de/Karl/campercontrol
 
 Build your own GIT! Protect your CODE against KI. 
 https://campercontrol.pekaway.de/en
